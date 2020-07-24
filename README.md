@@ -18,7 +18,7 @@ You can also specify a threshold that each user in the database has to have at l
 Pictures are being downloaded and saved - to make the graph look more appealing for the enduser - only if the threshold is met.
 
 
-## Example Graph using <a href="instagram.com/der_ziz">Der_Ziz</a>
+## Example Graph using <a href="https://www.instagram.com/der_ziz/">Der_Ziz</a>
 
 Exported Graph:<br><br>
 <img src="media/DerZizInGrossDownscaled.png"  alt="Der_Ziz Graph"/><br>
