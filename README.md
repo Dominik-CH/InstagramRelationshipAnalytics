@@ -20,8 +20,10 @@ Pictures are being downloaded and saved - to make the graph look more appealing 
 
 ## Example Graph using <a href="instagram.com/der_ziz">Der_Ziz</a>
 
-Exported Graph:<br>
+Exported Graph:<br><br>
 <img src="media/DerZizInGrossDownscaled.png"  alt="Der_Ziz Graph"/><br>
+<br><br>
+Zoomed in to be able to see the edges more cleary:
 <br><br>
 <img src="media/DerZizAusschnitt.png"  alt="Der_Ziz Ausschnitt"/><br>
 
