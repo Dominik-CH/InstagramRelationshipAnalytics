@@ -17,6 +17,14 @@ These users and their followers/followings are stored in an SQLite Database.<br>
 You can also specify a threshold that each user in the database has to have at least a certain amount of edges to be part of the graph, to filter out irrelevant accounts.<br>
 Pictures are being downloaded and saved - to make the graph look more appealing for the enduser - only if the threshold is met.
 
+## Dependencies
+Package | Version 
+---------|----------
+Pillow | 7.0.0 
+networkx | 2.4
+matplotlib | 3.1.2
+<a href="https://github.com/Dominik-CH/instagram-scraper">IGscraper Fork</a> | 0.3.2
+
 
 ## Example Graph using <a href="https://www.instagram.com/der_ziz/">Der_Ziz</a>
 
